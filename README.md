@@ -1,5 +1,5 @@
 ## onionphishers
-This is a list of phishing sites you should NOT USE (source: tor.taxi)
+
 
 
 This is a list of phishing sites you should NOT USE
@@ -81,4 +81,4 @@ worldmarket-links.com
 worldmarketlinks.com
 worldmarketurls.com
 
-
+------
